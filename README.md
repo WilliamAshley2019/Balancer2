@@ -38,8 +38,7 @@ This is an update to "Balancer", this plugin focuses strictly on Gain staging an
 
 ## Screenshots
 
-*(Optional:  screenshots o *
-
+![GainMono VST3 Plugin UI](https://raw.githubusercontent.com/WilliamAshley2019/Balancer2/main/balancergainmono.png)
 ## Build Instructions
 
 ### Requirements
