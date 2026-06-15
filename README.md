@@ -42,7 +42,7 @@ This is an update to "Balancer", this plugin focuses strictly on Gain staging an
 
 ### Requirements
 - **Operating System:** Windows 10/11 (Tested on Windows 11)
-- **IDE:** Visual Studio 2022 (Windows) or Xcode (macOS)
+- **IDE:** Visual Studio 2022 (Windows) or Xcode (macOS) or Newer (This Plugin was Compiled with Visual Studio 2026)
 - **JUCE Framework:** Version 8.0.12
 - **VST3 SDK:** Steinberg VST3 SDK 3.7 or newer
 
