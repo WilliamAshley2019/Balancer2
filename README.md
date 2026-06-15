@@ -33,8 +33,7 @@ This is an update to "Balancer", this plugin focuses strictly on Gain staging an
 - **Bypass Switch**: Instantly A/B the processed signal with the dry signal.
 - **CPU Optimized**: Features an "early exit" architecture. If the plugin is bypassed, or set to 0dB gain with Mono off, it consumes virtually zero CPU.
 - **Professional Audio Engine**: Utilizes JUCE's optimized, SIMD-friendly buffer operations (`addFrom` / `copyFrom`) for safe, alias-free channel summing.
-- **Broad Compatibility**: Supports standard VST3 hosts (FL Studio, Cubase, Reaper, Ableton Live, etc.) with flexible Mono/Stereo I/O configurations. This plugin
-- has only been tested in FL Studio 2025, if you have issues with another daw feel free to email contact@williamashley.music 
+- **Broad Compatibility**: Supports standard VST3 hosts (FL Studio, Cubase, Reaper, Ableton Live, etc.) with flexible Mono/Stereo I/O configurations. This plugin has only been tested in FL Studio 2025, if you have issues with another daw feel free to email contact@williamashley.music 
 
 ## Screenshots
 
